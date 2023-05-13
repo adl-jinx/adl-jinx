@@ -11,6 +11,7 @@ Presently, I'm straddling the domains of Computer Science, as my major, and Mana
 - Artificial Intelligence 🤖
 - Machine Learning 🧠
 - Databases 💽
+- Robotics 🦾
 
 ## 🌎 General Interests 
 
