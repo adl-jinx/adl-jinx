@@ -31,7 +31,7 @@ Presently, I'm straddling the domains of Computer Science, as my major, and Mana
 The past year saw me wearing various hats, from design (UX, UI) to coding, from managerial roles to being a team player. Each project has been a stepping stone, adding to my learning journey. 
 
 ## 👣 My Journey Beyond The Profession 🗺️ 
-🌎 🌍 🌏 
+
 If I were to encapsulate my life experience, I'd probably say, "I've seen it all." I've lived, worked, and breathed the culture of North America, Europe, Oceania and Asia, and have left my footprints in many more countries (althouhg, I miss Africa 😒). Each experience has been a chapter in my life, shaping who I am today. 
 
-Join me in this remarkable journey as I continue to learn, grow, and contribute to the world of technology! 🚀
+Join me in this remarkable journey as I continue to learn, grow, and contribute to the world of technology! 🚀 🌎 🌍 🌏 
