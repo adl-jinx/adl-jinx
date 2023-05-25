@@ -3,7 +3,7 @@ ABOUT THIS GITHUB: please consider that projects in this git are mainly for lear
 
 Hello there! I'm Antonio De Luca! 🙋‍♂️🌍
 
-A humble enthusiast at heart, I'm currently navigating the thrilling universe of technology, with a special focus on coding. My journey draws from a colorful palette of experiences across anti-fraud, finance, tourism, and customer service, crafting a multifaceted professional identity that I am proud of. I planted my first seeds in the field of programming in 2021, and by 2022, I was knee-deep in hands-on experience. 🚀 
+A humble enthusiast at heart, I'm currently navigating the thrilling universe of technology, with a special focus on coding. My journey draws from a colorful palette of experiences across anti-fraud, finance, tourism, and customer service, crafting a multifaceted professional identity that I am proud of. I planted my first seeds in the field of programming end of 2021 and early 2022 while I approached iOS and Swift mid 2022. 🚀 
 
 Presently, I'm straddling the domains of Computer Science as my major and Management, as my minor, trying to create a unique blend of the two in my skill set. 🎓 💼
 
